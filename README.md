@@ -20,7 +20,7 @@ I’m a Cybersecurity student with a strong interest in software development, we
 
 ## 🚀 Featured Projects
 
-### 🎨 [Starrel]((https://aleehar.github.io/Starrel/))
+### 🎨 [Starrel](https://aleehar.github.io/Starrel/)
 
 A responsive art prints e-commerce website designed to provide users with a simple and visually appealing shopping experience. The project includes product categories, best sellers, shopping cart, payment, login, sign-up, and order confirmation pages. Built using **HTML and CSS**.
 
